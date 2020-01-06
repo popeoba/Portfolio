@@ -3,7 +3,7 @@ popeoba@gmail.com
 linkedin.com/in/popeoba
 International Drivers Licence
 Availability: Immediate
-Portfolio | github.com/popeoba/portfolio
+Portfolio | https://eadekola.youpple.com 
 
 Profile:
 •	Economics graduate with a professional diploma in Software Engineering pursuing an MBA and a Master in Data Analytics degree with strong HTML, CSS, Python, R, JavaScript, Java, C# and Cloud Computing skills keen to secure an experienced role as a data engineer and scientist.
